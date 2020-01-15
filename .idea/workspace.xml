@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4889d3d-6dd3-4974-a895-77545aec2d1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UpfyWheRqqh93rVcDNE7XdZKu5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/geocoding" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="trial001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Trial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/product_success_rate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trial001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4889d3d-6dd3-4974-a895-77545aec2d1b" name="Default Changelist" comment="" />
+      <created>1576058711579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576058711579</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578565097265">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1578565097265" />
+    <state width="1827" height="448" key="GridCell.Tab.0.bottom" timestamp="1579010634522">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="448" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579010634522" />
+    <state width="1827" height="448" key="GridCell.Tab.0.center" timestamp="1579010634522">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="448" key="GridCell.Tab.0.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579010634522" />
+    <state width="1827" height="448" key="GridCell.Tab.0.left" timestamp="1579010634522">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="448" key="GridCell.Tab.0.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579010634522" />
+    <state width="1827" height="448" key="GridCell.Tab.0.right" timestamp="1579010634522">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="448" key="GridCell.Tab.0.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579010634522" />
+    <state width="1827" height="449" key="GridCell.Tab.1.bottom" timestamp="1578487328022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="449" key="GridCell.Tab.1.bottom/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1578487328022" />
+    <state width="1827" height="449" key="GridCell.Tab.1.center" timestamp="1578487328022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="449" key="GridCell.Tab.1.center/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1578487328022" />
+    <state width="1827" height="449" key="GridCell.Tab.1.left" timestamp="1578487328022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="449" key="GridCell.Tab.1.left/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1578487328022" />
+    <state width="1827" height="449" key="GridCell.Tab.1.right" timestamp="1578487328022">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="449" key="GridCell.Tab.1.right/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1578487328022" />
+    <state x="518" y="261" width="944" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1576329739750">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="518" y="261" width="944" height="591" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1576329739750" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579009649337">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579009649337" />
+    <state x="545" y="292" width="890" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576326168781">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="545" y="292" width="890" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1576326168781" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1579009675017">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579009675017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/product_success_rate.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/product_success_rate.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
