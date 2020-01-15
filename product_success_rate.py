@@ -16,7 +16,7 @@ NODATA = 255
 # endregion
 
 start = datetime.datetime.now()
-mode = "TSMS"
+mode = "HSAF"
 
 
 if mode == 'HSAF':
