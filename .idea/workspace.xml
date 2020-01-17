@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4889d3d-6dd3-4974-a895-77545aec2d1b" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/product_success_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_success_rate.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UpfyWheRqqh93rVcDNE7XdZKu5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -132,10 +137,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="545" y="292" width="890" height="529" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1576326168781" />
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1579009675017">
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1579083153188">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579009675017" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053/1920.0.1920.1080@70.27.1850.1053" timestamp="1579083153188" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
