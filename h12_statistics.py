@@ -13,24 +13,24 @@ LAND = 0
 SEA = -20
 NODATA1 = -1
 NODATA2 = -2
-# TODO convert structure from H5 (HDF) to grib2
+# TODO find important and nodata values and test values
 
 start = datetime.datetime.now()
 
-mode = "HSAF_h13"
+mode = "HSAF_h12"
 
-if mode == 'HSAF_h13':
+if mode == 'HSAF_h12':
     # Looks for the merged product
-    working_path = r"/external/b/HSAF_archive_bak_191212/h13_extract"
+    working_path = r"/external/b/HSAF_archive_bak_191212/h12_extract"
     # working_path = r"/external/b/HSAF_archive_bak_191212/test"
 elif mode == "TSMS":
     # Looks for the Mountainous product (Unmerged TSMS produced)
     working_path = r'/external/b/TSMS_archive/h10_HDF'
 
 start_day = datetime.datetime.strptime("20121128", "%Y%m%d")
-# start_day = datetime.datetime.strptime("20121208", "%Y%m%d")
+
 end_day = datetime.datetime.strptime("20191231", "%Y%m%d")
-date_list_h13 = [start_day + timedelta(n) for n in range(int((end_day - start_day).days) + 1)]
+date_list_h12 = [start_day + timedelta(n) for n in range(int((end_day - start_day).days) + 1)]
 
 d_s_format = "%Y%m%d"
 grib2_files = [file_ for file_ in glob.glob1(working_path, "*.grib2")]
@@ -39,7 +39,7 @@ result = []
 important_values = range(300)  # they need to be changed 0 = land 0-300 arası = snow
 
 
-for en, date_ in enumerate(date_list_h13):
+for en, date_ in enumerate(date_list_h12):
     print(datetime.datetime.now() - start)
     merge = 0
     date_in = date_.strftime(d_s_format)
@@ -71,19 +71,19 @@ for en, date_ in enumerate(date_list_h13):
 
             snow = 100 - (b[LAND] + b[SEA] + b[NODATA1] + b[NODATA2])
             data_count = grib2_array.size
-            c = ['H13', date_in, merge, snow, b[LAND], b[SEA], b[NODATA1] + b[NODATA2], grib2_array.size]
+            c = ['H12', date_in, merge, snow, b[LAND], b[SEA], b[NODATA1] + b[NODATA2], grib2_array.size]
 
             c.extend(test_points)
             result.append(c)
             f_.close()
         else:
-            result.append(['H13', date_in, merge, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+            result.append(['H12', date_in, merge, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
             f_.close()
 
     except BaseException as be:
         print("Problem")
         merge = be
-        result.append(['H13', date_in, merge, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
+        result.append(['H12', date_in, merge, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
         f_.close()
         continue
 
